@@ -16,4 +16,4 @@
 
 [Ссылка на видео](https://drive.google.com/file/d/1xBl6mL8uh0BTJVu4_adK4ehhpiH0qcON/view?usp=sharing)
 
-
+[Ссылка на Wireframe и App Flow Diagram в Figma](https://www.figma.com/design/bXG38TsAKgYnGEA7WmRL7P/SmartCloth?node-id=0-1&t=F9vQs5wELVIxmAXs-1)
